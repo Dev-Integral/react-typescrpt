@@ -1,13 +1,13 @@
-# Getting Started with Typescript in a React App
+# React project using Typescript.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-Install packages by running npm install or yarn 
-### `yarn install` or  
-### `npm install`
-After which you can start your development server using either of npm start or yarn start.
-### `About the project`
-
+This project will give a walk through on:
+### Setup 
+### Installation of typescript packages (Existing or New project)
+### Why typscript?
+### Adding typescript to any Javascript datatype.
+### Adding typescript to a Javascript function.
+### Adding Typescript to React's functional/ stateless component.
+### Adding Typescript to React's Class/ stateful component.
+### Using Typescript's interface in React.
+### Using Typescript on states in React.
+### HOCs in Typescript.
